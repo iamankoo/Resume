@@ -37,6 +37,4 @@ A smart tool that analyzes resumes and provides improvement suggestions.
 - `Projects/` → Project screenshots and details
 
 ## 📫 Contact
-- GitHub: your-github-link
-- LinkedIn: your-linkedin-link
-- Email: your-email@example.com
+- Email: sm.aniketraj@gmail.com
